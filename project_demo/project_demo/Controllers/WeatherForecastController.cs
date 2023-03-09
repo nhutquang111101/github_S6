@@ -13,11 +13,7 @@ namespace project_demo.Controllers
     {
         private static readonly string[] Summaries = new[]
         {
-<<<<<<< HEAD
             "Freezinggggggggggggggggg", "Bracinggggggggggggggggggg_DEVMASTER ODAY", "Chilly Nhut Quang", "Cool", "Mild", "Warmsssssssssss", "Balmy", "Hot", "Sweltering", "Scorching"
-=======
-            "Freezing", "Bracinggggggggggggggggggg", "Chilly_ Dev Quang da ghe day", "Cool", "Mild", "Warmsssssssssss", "Balmy", "Hot", "Sweltering", "Scorching"
->>>>>>> huynh_nhut_quang
         };
 
         private readonly ILogger<WeatherForecastController> _logger;
